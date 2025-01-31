@@ -1,4 +1,4 @@
-# Real-Estate-Price-Prediction-Using-Machine-Learning
+# EstateValuator 
 This project aims to develop a machine learning model capable of predicting real estate prices based on specific features such as square footage, the number of bedrooms, and the number of bathrooms. The model leverages advanced data preprocessing techniques and machine learning algorithms to deliver accurate predictions, aiding potential buyers, sellers, and real estate professionals in making informed decisions.
 
 **Key Features:**
